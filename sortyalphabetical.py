@@ -1,4 +1,4 @@
-my_str = "hii amol how are you"
+my_str = "hii guru how are you"
 
 words = my_str.split()
 

@@ -1,4 +1,4 @@
-my_str = 'aIbohPhoBiA'
+my_str = 'aba'
 
 rev_str = reversed(my_str)
 
